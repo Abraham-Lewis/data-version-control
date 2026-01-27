@@ -1,4 +1,4 @@
 [core]
     remote = remote_storage
 ['remote "remote_storage"']
-    url = ${DVC_REMOTE_PATH}/dvc_remote
+    url = /home/lidd/projects/learn_dvc/dvc_remote
